@@ -5,3 +5,6 @@ Screenshot 1
 swift swiftui
 Portfolio: Use MVI (Model View Intent) to keep track of your portfolio over time
 2021 swift swiftui combine mvi model-view-intent
+
+
+AAAAAAAAAAAAAAAAAAAAA
